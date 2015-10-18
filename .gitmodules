@@ -1,0 +1,6 @@
+[submodule "gdg2015-android-m-permissions"]
+	path = gdg2015-android-m-permissions
+	url = https://github.com/padc/gdg2015-android-m-permissions.git
+[submodule "gdg2015-android-m-autobackup"]
+	path = gdg2015-android-m-autobackup
+	url = https://github.com/padc/gdg2015-android-m-autobackup.git
